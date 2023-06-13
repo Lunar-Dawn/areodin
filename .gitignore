@@ -1,0 +1,12 @@
+# Node
+
+node_modules
+
+# Vitepress
+
+.vitepress/cache
+.vitepress/dist
+
+## VS Code
+
+.vscode

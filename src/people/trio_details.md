@@ -1,0 +1,3 @@
+::: details Lily, Pumpkin, and Hurricane
+[Lily](./lily), [Pumpkin](./pumpkin), and [Hurricane](./hurricane) wanted to see the world outside their farming village home with their childhood friends and decided to sign onto a ship's crew. As a very unusual combination of roles to join a crew together, they had asked almost every crew in [Skyhaven](/places/skyhaven) before Victoria decided to take a risk and let them sign on together. But despite their near non-existent experience with sailing, they've proven themselves more than capable, becoming beloved newbies of their respective parts of the crew.
+:::

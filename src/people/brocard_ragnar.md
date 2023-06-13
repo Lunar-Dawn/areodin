@@ -1,0 +1,3 @@
+::: details Brocard & Ragnar
+Childhood friends from the Iron level of the [Great Hold](/places/mineral_holds#great-hold), [Ragnar](./ragnar) and [Brocard](./brocard) have done most things together since they were children, even signing up for the military together. They have served under [Victoria](./victoria) ever since they left basic training, becoming her most trusted crew members. Now after she retired to civilian life, they have followed her out of the military and into her mysterious project. The question is, do even they know what she's up to?
+:::
