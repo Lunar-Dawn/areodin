@@ -6,6 +6,8 @@
     
 **Birthplace** [Brooksley](/places/minor_towns#brooksley)
 
+**Ancestry** Human
+
 </InfoBox>
 
 # Second Mate Sarah Goldlily

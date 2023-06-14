@@ -6,6 +6,8 @@
     
 **Birthplace** [The Quintuplets](/places/quintuplets)
 
+**Ancestry** Aasimar Human
+
 </InfoBox>
 
 # Lily

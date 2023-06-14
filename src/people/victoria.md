@@ -6,6 +6,8 @@
     
 **Birthplace** [Skyhaven](/places/skyhaven)
 
+**Ancestry** Half-Elf
+
 </InfoBox>
 
 # Captain Victoria Mosane

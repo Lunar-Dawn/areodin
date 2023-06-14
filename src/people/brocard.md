@@ -6,6 +6,8 @@
     
 **Birthplace** [The Iron Hearth](/places/mineral_holds)
 
+**Ancestry** Halfling
+
 </InfoBox>
 
 # First Mate's Steward Ironhearth Brocard

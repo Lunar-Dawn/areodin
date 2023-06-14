@@ -6,6 +6,8 @@
     
 **Birthplace** [Luin](/places/luin)
 
+**Ancestry** Human
+
 </InfoBox>
 
 # Captain's Steward Theo Simdas

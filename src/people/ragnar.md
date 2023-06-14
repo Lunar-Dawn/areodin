@@ -6,6 +6,8 @@
     
 **Birthplace** [The Iron Hearth](/places/mineral_holds)
 
+**Ancestry** Dwarf
+
 </InfoBox>
 
 # First Mate Ironhearth Ragnar
