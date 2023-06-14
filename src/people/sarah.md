@@ -4,7 +4,7 @@
     
 **Role** Second Mate
     
-**Birthplace** [Minor Town](/places/minor_towns#brooksley)
+**Birthplace** [Brooksley](/places/minor_towns#brooksley)
 
 </InfoBox>
 
