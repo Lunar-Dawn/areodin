@@ -17,6 +17,6 @@ Rarely do beasts from the mist acquire the ability to fly, and can then pose a d
 Despite these risks, many brave people still take the risk and venture into the mist in search of relics and information from the past. The life expectancy is not high and after only half a dozen dives most will have to retire lest they get permanent symptoms.
 
 ::: danger REMEMBER
-If you are going on a dive, remember, no matter how they look:\
+If you are going on a dive, remember, no matter what they were before:\
 ***They are no longer people in any meaningful way***
 :::
