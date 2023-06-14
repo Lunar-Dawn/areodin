@@ -6,6 +6,6 @@ The Gryphon Knights is a knightly order based out of Gryphonstone dedicated to p
 
 Knights usually take a knightly name when joining the order, and another one when they become proper knights.
 
-::: info EXAMPLE NAMES
+::: info Sample Gryphon Knight Names
 Simone, Arlette, Durant, Rodulf, Louothains, Grâce
 :::
