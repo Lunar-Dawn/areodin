@@ -4,7 +4,7 @@ outline: 3
 
 # Glossary
 
-A glossary of common terms that are used on this website
+A glossary of common terms that are used on this website and in Areodin.
 
 ### AE
 
@@ -12,7 +12,7 @@ After Evacuation, in years, the primary epoch in use for dates on Areodin.
 
 ### The Bob
 
-A sailor tern for the instability experienced when flying an airship above a floating island. Ranges from annoying to catastrophic.
+A sailor tern for the instability experienced when flying an airship above a floating island. The effect varies based on the difference in weight between the bodies. Ranges from an annoyance to a catastrophic loss of control.
 
 ### The Wave
 
