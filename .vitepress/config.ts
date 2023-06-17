@@ -20,11 +20,11 @@ export default defineConfig({
         link: '/general/',
         collapsed: false,
         items: [
-          { text: 'Androids',        link: '/general/androids' },
-          { text: 'The Mist',        link: '/general/the_mist' },
-          { text: 'Gryphon Knights', link: '/general/gryphon_knights' },
-          { text: 'The Builders',    link: '/general/builders' },
           { text: 'Glossary',        link: '/general/glossary' },
+          { text: 'Androids',        link: '/general/androids' },
+          { text: 'The Builders',    link: '/general/builders' },
+          { text: 'Gryphon Knights', link: '/general/gryphon_knights' },
+          { text: 'The Mist',        link: '/general/the_mist' },
           { text: 'The Strix',       link: '/general/strix' },
         ]
       },
