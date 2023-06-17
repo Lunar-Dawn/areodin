@@ -72,6 +72,9 @@ export default defineConfig({
           { text: 'Minor Towns',       link: '/places/minor_towns' },
         ]
       },
-		]
+		],
+    search: {
+      provider: 'local',
+    },
 	}
 })
