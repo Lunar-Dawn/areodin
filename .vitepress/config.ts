@@ -44,6 +44,7 @@ export default defineConfig({
           { text: "First Mate Ironhearth Ragnar",            link: '/people/ragnar' },
           { text: "First Mate's Steward Ironhearth Brocard", link: '/people/brocard' },
           { text: "Second Mate Sarah Goldlily",              link: '/people/sarah' },
+          { text: "Gunnery Officer Ustraki",                 link: '/people/ustraki' },
           { text: "Lily",                                    link: '/people/lily' },
           { text: "Pumpkin",                                 link: '/people/pumpkin' },
           { text: "Hurricane",                               link: '/people/hurricane' },
