@@ -4,13 +4,13 @@
 
 **Role** Lead Researcher
 
-**Home Island** [Skyhaven](/places/skyhaven)
+**Birthplace** [Skyhaven](/places/skyhaven)
 
 **Ancestry** Elf
 
 </InfoBox>
 
-# Eletha Keldi
+# Eletha Keldi, Ph.D.
 <Badge type="info" text="She/Her"/>
 
 A relatively young (by Elven standards at least) woman, Eletha is a zoologist and faculty head at the [Areodin Academy](/places/academy). Her expertise and "claim to fame" lies in her analysis of how surface animals have adapted to their new environment after they arrived in the skies and her work in utilising these changes for people's benefit.
