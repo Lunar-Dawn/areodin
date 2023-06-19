@@ -11,13 +11,12 @@ export default defineConfig({
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Information', link: '/general/' },
+			{ text: 'Information', link: '/general/glossary' },
 		],
 
 		sidebar: [
       {
         text: 'General Information',
-        link: '/general/',
         collapsed: false,
         items: [
           { text: 'Glossary',        link: '/general/glossary' },
@@ -31,7 +30,6 @@ export default defineConfig({
       },
       {
         text: 'History',
-        link: '/history/',
         collapsed: false,
         items: [
           { text: 'The Evacuation', link: '/history/evacuation' },
@@ -39,7 +37,6 @@ export default defineConfig({
       },
 			{
         text: 'People',
-        link: '/people/',
         collapsed: false,
         items: [
           { text: "Captain Victoria Mosane",                 link: '/people/victoria' },
@@ -56,7 +53,6 @@ export default defineConfig({
       },
 			{
         text: 'Places',
-        link: '/places/',
         collapsed: false,
         items: [
           { text: 'Skyhaven',          link: '/places/skyhaven' },

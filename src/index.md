@@ -9,14 +9,14 @@ hero:
   actions:
     - theme: brand
       text: General Information
-      link: /general/
+      link: /general/glossary
     - theme: alt
       text: History
-      link: /history/
+      link: /history/evacuation
     - theme: alt
       text: People
-      link: /people/
+      link: /people/victoria
     - theme: alt
       text: Places
-      link: /places/
+      link: /places/skyhaven
 ---
