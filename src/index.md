@@ -19,4 +19,7 @@ hero:
     - theme: alt
       text: Places
       link: /places/skyhaven
+    - theme: alt
+      text: Meta
+      link: /meta/
 ---

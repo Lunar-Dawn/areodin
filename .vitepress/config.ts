@@ -70,6 +70,14 @@ export default defineConfig({
           { text: 'Minor Towns',       link: '/places/minor_towns' },
         ]
       },
+      {
+        text: 'Meta',
+        collapsed: false,
+        link: '/meta/',
+        items: [
+          { text: 'Ancestries', link: '/meta/ancestries' },
+        ]
+      },
 		],
     search: {
       provider: 'local',
