@@ -67,6 +67,7 @@ export default defineConfig({
           { text: 'The Crystal Grove', link: '/places/crystal_grove' },
           { text: 'Luin',              link: '/places/luin' },
           { text: 'Aerodin Academy',   link: '/places/academy' },
+          { text: 'Trit-Shi',          link: '/places/trit_shi' },
           { text: 'Minor Towns',       link: '/places/minor_towns' },
         ]
       },
