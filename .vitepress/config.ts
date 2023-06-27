@@ -24,6 +24,7 @@ export default defineConfig({
           { text: 'The Builders',    link: '/general/builders' },
           { text: 'Gryphon Knights', link: '/general/gryphon_knights' },
           { text: 'Island Crystals', link: '/general/island_crystals' },
+          { text: 'Languages',       link: '/general/languages' },
           { text: 'The Mist',        link: '/general/the_mist' },
           { text: 'The Strix',       link: '/general/strix' },
         ]
