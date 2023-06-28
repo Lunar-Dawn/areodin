@@ -1,3 +1,7 @@
+---
+outline: 'deep'
+---
+
 <InfoBox>
 
 ![image](https://placehold.co/600x400?text=Trit-Shi)
@@ -25,3 +29,9 @@ Trit-Shi was initially settled in the year 18 AE by a group of Sesani who felt t
 ## Economy and Population
 
 Trit-Shi is inhabited by the Sesani, a group of tieflings who had established their own state before [the Evacuation](/history/evacuation). With their separate culture and language (and non-tieflings sticking out a lot) making outsider immigration rare the Sesani still make up over 95% of the island population.
+
+### Blood-siblings
+
+A very old tradition, The Rite of Blood Bonding is a ritual where unrelated people swear an oath of family to each other. The tradition emerged when tieflings were outcasts in the old world. Since many of them were often abandoned by their family at young ages it became a tradition to find your own family amongst other tieflings. 
+
+Since tieflings are no longer stigmatised or abandoned, the tradition is mostly carried on by orphans who seek the same family and belonging, but Sesani wedding ceremonies do carry traces of the ritual's influence. Even so, the Sesani take the bonds of the rite *very* seriously and suggesting them as lesser is viewed as a grave insult.
