@@ -49,6 +49,9 @@ export default defineConfig({
           { text: "Lily",                                    link: '/people/lily' },
           { text: "Pumpkin",                                 link: '/people/pumpkin' },
           { text: "Hurricane",                               link: '/people/hurricane' },
+          { text: "Arvodin Watani",                          link: '/people/arvodin' },
+          { text: "Hesri Watani",                            link: '/people/hesri' },
+          { text: "Elja Kranz",                              link: '/people/elja' },
           { text: "Eletha Keldi, Ph.D.",                     link: '/people/eletha' },
           { text: "Atax",                                    link: '/people/atax' },
         ]
