@@ -6,7 +6,9 @@ outline: 'deep'
 
 ## Hittipo
 
-Of the many things left behind after [the Evacuation](/history/evacuation) the languages of the old world are some of the most noticeable ones. After the Evacuation was complete [Skyhaven](/places/skyhaven) was left with several thousand with no universal shared language. Fortunately, through many layers of translation, everyone was able to communicate with each other, albeit inefficiently. What eventually came from this hodgepodge was Hittipo, a creole composed of several old-world languages that was codified by a group of linguists before it evolved as a standard language. It now serves as the near-universal lingua franca of Areodin.
+Of the many things left behind after [the Evacuation](/history/evacuation) the languages of the old world are some of the most noticeable ones. After the Evacuation was complete [Skyhaven](/places/skyhaven) was inhabited by several thousand people with no universal shared language. Fortunately, through many layers of translation, everyone was able to communicate with each other, albeit inefficiently.
+
+What arose from this mixing was Hittipo, a creole composed of several old-world languages. Hittipo was eventually codified by a group of linguists into a formal language and has since evolved as a standard language. It now serves as the lingua franca and near-universal mother tongue of Areodin.
 
 ## Other Languages
 
@@ -14,7 +16,7 @@ Although Hittipo is by far the predominant language in Areodin, multiple other l
 
 ### Tesserian
 
-Tesserian (today often called "Ol' Tesserian") is a language from before the Evacuation and was one of the most widespread languages in the old world. The primary reason for its survival today is that most of the very sparse writing that exists from [the Builders](./builders) has been written in Tesserian.
+Tesserian (today often called "Old Tesserian") is a language from before the Evacuation and was one of the most widespread languages in the old world. The primary reason for its survival today is that most of the very sparse writing that exists from [the Builders](./builders) has been written in Tesserian.
 
 ### Ses-ti
 
@@ -22,19 +24,19 @@ Another old-world language, Ses-ti is almost solely spoken on [Trit-Shi](/places
 
 ### Elven
 
-Even in the more cosmopolitan world after the Evacuation the elves still keep their old culture in high regard. Combined with their [long lifespans](/meta/ancestries#ages) meaning fewer generations have lived above the clouds it means that the elven language is still commonly spoken by them. Although almost all elves *do* speak Hittipo, being able to converse, or at least deliver greetings in Elven is often seen as a sign of respect.
+Even in the more cosmopolitan environment after the Evacuation the elves still keep their old culture in high regard. Combined with their [long lifespans](/meta/ancestries#ages) meaning fewer generations have lived above the clouds it means that the elven language is still commonly spoken by them. Although almost all elves *do* speak Hittipo, being able to converse, or at least deliver greetings in Elven is often seen as a sign of respect.
 
 #### Other ancestral Languages
 
-Most of the other ancestral languages (such as Dwarven, Goblin, and Halfling) are not lost, but learning them is done out of curiosity or respect, and their use as mother tounges is pretty much extinct.
+Most of the other ancestral languages (such as Dwarven, Goblin, and Halfling) are not lost, but learning them is usually done out of curiosity or respect, and their use as mother tounges is practically extinct.
 
 ### Draconic
 
-With their relatively independent culture and specific traditions, the Kobolds of [Sky-Roost](/places/sky_roost) have preserved Draconic as their native tongue. While most Kobolds do speak Hittipo, there is a not-insignificant proportion of them that never learned it.
+With their relatively independent culture and specific traditions, the Kobolds of [Sky-Roost](/places/sky_roost) have preserved Draconic as their native tongue. While most Kobolds do speak Hittipo, there is a not-insignificant proportion of them that never learn it.
 
 ### Celestial
 
-Still the liturgical language of the Church of the Dawnflower, most non-martial anointed followers of Sarenrae know Celestial. But with the shrinking of the church following the Evacuation its necessity as a cross-cultural language has diminished greatly.
+Once the liturgical language of the Church of the Dawnflower, Celestial is still used by the new Church of the Prismatic Ray, but significantly less. Most non-martial anointed followers of the Prismatic Ray do know Celestial. With the shrinking of the church and the introduction of Hittipo as a universal language following the Evacuation its necessity as a cross-cultural language has diminished greatly, and the language now rarely sees use beyond ceremonial purposes.
 
 ### Strix
 
