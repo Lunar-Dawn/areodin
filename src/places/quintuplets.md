@@ -2,11 +2,11 @@
 
 ![image](https://placehold.co/600x400?text=Quintuplets)
 
-**Population** ~50,000
+**Population** ~65,000
 
-**Combined Area** ~150 km²
+**Combined Area** ~400 km²
 
-**Radii** 5 × ~3000 m
+**Radii** 5 × ~5000 m
 
 </InfoBox>
 

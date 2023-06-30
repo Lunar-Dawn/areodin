@@ -2,7 +2,7 @@
 
 ![image](https://placehold.co/600x400?text=Mineral%20Holds)
 
-**Population** ~50,000
+**Population** ~75,000
 
 **Combined Area** ~40 km²
 

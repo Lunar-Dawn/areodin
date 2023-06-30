@@ -6,11 +6,11 @@ outline: 'deep'
 
 ![image](https://placehold.co/600x400?text=Trit-Shi)
 
-**Population** ~45,000
+**Population** ~75,000
 
-**Area** ~4.5 km²
+**Area** ~20 km²
 
-**Radius** ~1200 m
+**Radius** ~2500 m
 
 </InfoBox>
 

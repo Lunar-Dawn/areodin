@@ -2,7 +2,7 @@
 
 ![image](https://placehold.co/600x400?text=Grefor)
 
-**Population** ~75,000
+**Population** ~100,000
 
 **Area** ~12.5 km²
 

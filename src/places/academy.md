@@ -2,11 +2,11 @@
 
 ![image](https://placehold.co/600x400?text=Academy)
 
-**Population** ~10,000
+**Population** ~15,000
 
-**Area** ~0.8 km²
+**Area** ~1.8 km²
 
-**Radius** ~500 m
+**Radius** ~750 m
 
 </InfoBox>
 

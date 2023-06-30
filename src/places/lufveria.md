@@ -2,7 +2,7 @@
 
 ![image](https://placehold.co/600x400?text=Lufveria)
 
-**Population** ~20,000
+**Population** ~30,000
 
 **Area** ~4.5 km²
 

@@ -2,7 +2,7 @@
 
 ![image](https://placehold.co/600x400?text=Luin)
 
-**Population** ~30,000
+**Population** ~50,000
 
 **Combined Area** ~18 km²
 

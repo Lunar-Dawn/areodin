@@ -2,11 +2,11 @@
 
 ![image](https://placehold.co/600x400?text=Sky-Roost)
 
-**Population** ~10,000
+**Population** ~20,000
 
-**Area** ~30 km²
+**Area** ~38 km²
 
-**Radius** ~3100 m
+**Radius** ~3500 m
 
 </InfoBox>
 

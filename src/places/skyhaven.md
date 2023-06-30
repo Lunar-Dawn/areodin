@@ -2,11 +2,11 @@
 
 ![image](https://placehold.co/600x400?text=Skyhaven)
 
-**Population** ~500,000
+**Population** ~1,100,000
 
-**Area** ~42 km²
+**Area** ~800 km²
 
-**Radius** ~3600 m
+**Radius** ~16 km
 
 </InfoBox>
 

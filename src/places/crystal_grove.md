@@ -2,7 +2,7 @@
 
 ![image](https://placehold.co/600x400?text=Crystal%20Groves)
 
-**Population** ~20,000
+**Population** ~25,000
 
 **Area** ~7 km²
 
