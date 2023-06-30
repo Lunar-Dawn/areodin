@@ -12,7 +12,7 @@
 
 # Sky-Roost
 
-The home of most kobolds the Sky-Roost has been developed specifically as a temple to summon a Dragon-god by them.
+The home of most kobolds, the Sky-Roost has been developed specifically as a temple to summon the Dragon god Apsu.
 
 ## Geography
 

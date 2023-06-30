@@ -25,6 +25,7 @@ export default defineConfig({
           { text: 'Gryphon Knights', link: '/general/gryphon_knights' },
           { text: 'Island Crystals', link: '/general/island_crystals' },
           { text: 'Languages',       link: '/general/languages' },
+          { text: 'Religions',       link: '/general/religion' },
           { text: 'The Mist',        link: '/general/the_mist' },
           { text: 'The Strix',       link: '/general/strix' },
         ]
@@ -81,6 +82,7 @@ export default defineConfig({
         link: '/meta/',
         items: [
           { text: 'Ancestries', link: '/meta/ancestries' },
+          { text: 'Religion',   link: '/meta/religion' },
         ]
       },
 		],
