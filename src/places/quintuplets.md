@@ -23,3 +23,7 @@ Almost unique in the world, the Quintuplets are five large, closely located isla
 ## Economy and Population
 
 The Quintuplets supply around 40% of the world's food production. This is made possible by the crystal around which the island float, which causes crops to grow at enormous speeds and be unusually nutritious.
+
+## The Roseluck Horticultural Institute
+
+Located on one of the Quintuplets is the Roseluck Horticultural Institute, the preeminent place of research into crops and food. Founded in the year 461 as an offshoot of the [Areodin Academy](/places/academy) and becoming fully independent of it after 75 years, the Roseluck Insitute hosts well over five thousand researchers in various fields. 
