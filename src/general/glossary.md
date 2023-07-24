@@ -14,9 +14,9 @@ After Evacuation, in years, the primary epoch in use for dates on Areodin.
 
 A sailor tern for the instability experienced when flying an airship above a floating island. The effect varies based on the difference in weight between the bodies. Ranges from an annoyance to a catastrophic loss of control.
 
-### The Wave
+### The Veil and the Wave
 
-The colloquial term for the time and distance variance of unobserved islands. Scales by relative knowledge about the island and desire to be found. It means that finding a specific island without any information is nearly impossible.
+The colloquial term for the time and distance variance of unobserved islands respectively. Scales by relative knowledge about the island and desire to be found. The Veil means that isolated islands sometimes drift out of time with others and the wave means that finding a specific island without any information or direction is nearly impossible.
 
 ### Zephyrium
 
