@@ -6,9 +6,9 @@ outline: 3
 
 A glossary of common terms that are used on this website and in Areodin.
 
-### AE
+### AE & BE
 
-After Evacuation, in years, the primary epoch in use for dates on Areodin.
+After & Before Evacuation, in years, the primary epoch in use for dates on Areodin. Year 0, the year of the Evacuation, is either written without a marker or written as 0<sup>e</sup>
 
 ### The Bob
 
