@@ -14,11 +14,11 @@ Zazkar                           | Gunner's Mate          |                 | Ca
 Nrish                            | Helmsman               |                 | Orc
 Gansber                          | Midshipman             |                 | Gnome
 Illera Terryn                    | Midshipman             |                 | Half-Elf
-Joanne Serill                    | Midshipman             |                 | Human (Fetchling)
+Joanne Serill                    | Midshipman             |                 | Fetchling
 Argulia Xersia                   | Midshipman             |                 | Human
 Ethilar Sile                     | Cook                   |                 | Fleshwarp
 [Pumpkin](./pumpkin)             | Cook's Assistant       | The Quintuplets | Human
-[Lily](./lily)                   | Nurse                  | The Quintuplets | Aasimar Human
+[Lily](./lily)                   | Nurse                  | The Quintuplets | Human (Aasimar)
 Lennian Kellid                   | Deckcrew               |                 | Elf
 Aska                             | Deckcrew               |                 | Goblin
 Marblehold Irsen                 | Deckcrew               | Mineral Holds   | Dwarf
@@ -43,7 +43,7 @@ Zokka Cristin                    | Topcrew                |                 | Ca
 [Atax](./atax)                   | Researcher             | Skyhaven        | Android
 Jinito                           | Arcanist               |                 | Kitsune
 Zelda                            | Archaeologist          |                 | Sprite
-Assara                           | Mechanic/Carpenter     |                 |
-Gregorious                       | Achaeotechnician       |                 |
-Naisha                           | Spotter/Navigator      |                 |
-Swan                             | Occultist              |                 |
+Assara                           | Mechanic/Carpenter     |                 | Elf
+Gregorious                       | Achaeotechnician       |                 | Human
+Naisha                           | Spotter/Navigator      |                 | Elf (Tiefling)
+Swan                             | Occultist              |                 | Leshy
