@@ -40,6 +40,7 @@ export default defineConfig({
 			{
         text: 'People',
         collapsed: false,
+        link: '/people/',
         items: [
           { text: "Captain Victoria Mosane",                 link: '/people/victoria' },
           { text: "Captain's Steward Theo Simdas",           link: '/people/theo' },
@@ -47,8 +48,8 @@ export default defineConfig({
           { text: "First Mate's Steward Ironhearth Brocard", link: '/people/brocard' },
           { text: "Second Mate Sarah Goldlily",              link: '/people/sarah' },
           { text: "Gunnery Officer Ustraki",                 link: '/people/ustraki' },
-          { text: "Lily",                                    link: '/people/lily' },
           { text: "Pumpkin",                                 link: '/people/pumpkin' },
+          { text: "Lily",                                    link: '/people/lily' },
           { text: "Hurricane",                               link: '/people/hurricane' },
           { text: "Arvodin Watani",                          link: '/people/arvodin' },
           { text: "Hesri Watani",                            link: '/people/hesri' },

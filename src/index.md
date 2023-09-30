@@ -15,7 +15,7 @@ hero:
       link: /history/evacuation
     - theme: alt
       text: People
-      link: /people/victoria
+      link: /people/
     - theme: alt
       text: Places
       link: /places/skyhaven
