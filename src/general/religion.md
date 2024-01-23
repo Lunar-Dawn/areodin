@@ -12,7 +12,7 @@ Although the majority of religions from before the Evacuation survive today, man
 
 With Sarenrae's domain over the daylight sky, Desna's domain over the stars, and Shelyn's desire for peace the Prismatic Ray has become the preeminent faith for daily worship in Areodin. Followers of the Ray can be found in all walks of life, and the trio are seen as a sort of patron for the new world above the clouds.
 
-With such a wide following worship varies wildly between groups and goals. Sailors tend to pray to Desna that they find port safely, or that [the Wave](/general/glossary#the-wave) still lets them find new lands. Artists pray to Shelyn to inspire them and elevate their works to new heights. And farmers pray to Sarenra to ensure the yields of their labours.
+With such a wide following worship varies wildly between groups and goals. Sailors tend to pray to Desna that they find port safely, or that [the Wave](/general/glossary#the-wave) still lets them find new lands. Artists pray to Shelyn to inspire them and elevate their works to new heights. And farmers pray to Sarenrae to ensure the yields of their labours.
 
 As the largest faith the Church of the Prismatic Ray does open its door to congregations of smaller deities in places where their followers do not have enough resources for their own temples. Worship of Cayden Cailean, Torag, and other smaller gods is common in their churches, as long as the deities are not outright evil.
 
